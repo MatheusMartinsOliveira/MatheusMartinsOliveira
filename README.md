@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:020617&text=MATHEUS%20HENRIQUE%20MARTINS&fontSize=32&fontColor=00e5ff&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0f172a,100:111827&text=MATHEUS%20HENRIQUE%20MARTINS&fontSize=32&fontColor=00E5FF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Initializing+MatheusOS...;Software+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Backend+Developer+in+Progress...;Building+ideas+into+software...;System+Online+%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Initializing+MatheusOS...;Software+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Backend+Developer+in+Progress...;Building+ideas+into+software...;System+Online+%E2%9C%93" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-06b6d4?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-06B6D4?style=for-the-badge&logo=serverless&logoColor=white"/>
 
 </div>
 
@@ -18,108 +18,91 @@
 
 ## `01 // ABOUT_ME`
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="160">
+<td width="180" align="center">
 
 ### 👨‍💻
-
 **NAME**
 
 </td>
-
 <td>
 
-Matheus Henrique Martins
+**Matheus Henrique Martins**
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="180" align="center">
 
 ### 🎂
-
 **AGE**
 
 </td>
-
 <td>
 
-19
+**19**
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="180" align="center">
 
 ### 💼
-
 **ROLE**
 
 </td>
-
 <td>
 
-Software Developer
+**Software Developer**
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="180" align="center">
 
 ### 🎓
-
 **EDUCATION**
 
 </td>
-
 <td>
 
-Software Engineering
+**Software Engineering**
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="180" align="center">
 
 ### 📍
-
 **LOCATION**
 
 </td>
-
 <td>
 
-Londrina, Paraná - Brazil
+**Londrina, Paraná - Brazil**
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="180" align="center">
 
 ### ⚡
-
 **STATUS**
 
 </td>
-
 <td>
 
-Developing / Learning / Building
+**Developing / Learning / Building**
 
 </td>
 </tr>
-
 </table>
-
-</div>
 
 <br>
 
@@ -132,12 +115,12 @@ Gosto de transformar ideias em projetos funcionais e utilizo meus projetos pesso
 Atualmente venho aprofundando meus conhecimentos em **Java, Spring Boot, bancos de dados e desenvolvimento de APIs**, buscando evoluir constantemente como desenvolvedor e futuramente atuar profissionalmente na área de desenvolvimento de software.
 
 ```text
-> CURRENT MISSION
-
-Learn.
-Build.
-Improve.
-Repeat.
+┌──[ CURRENT MISSION ]
+│
+├── Learn
+├── Build
+├── Improve
+└── Transform ideas into software
 
 [ SYSTEM STATUS :: ONLINE ]
 ```
@@ -152,7 +135,7 @@ Repeat.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css&theme=dark" alt="Technology Stack"/>
 
 <br><br>
 
@@ -168,7 +151,7 @@ Repeat.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Development Tools"/>
 
 <br><br>
 
@@ -182,29 +165,20 @@ Repeat.
 
 ## `03 // FEATURED_PROJECTS`
 
-<div align="center">
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>💊 PharmaTrack Backend</h3>
+### 💊 PharmaTrack Backend
 
-<p>
-Backend do sistema de rastreamento de medicamentos com controle logístico e comunicação automatizada.
-</p>
+Backend do sistema de rastreamento de medicamentos com controle logístico e mensagens automáticas de e-mail para código de rastreio e código PIN de confirmação de entrega.
 
-<br>
+**Stack**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/BCrypt-00E5FF?style=flat-square"/>
 
 <br><br>
 
@@ -216,20 +190,14 @@ Backend do sistema de rastreamento de medicamentos com controle logístico e com
 
 <td width="50%" valign="top">
 
-<h3>🖥️ PharmaTrack Frontend</h3>
+### 🖥️ PharmaTrack Frontend
 
-<p>
-Frontend do sistema de rastreamento de medicamentos com interface para gerenciamento e acompanhamento das entregas.
-</p>
+Frontend do sistema de rastreamento de medicamentos com controle logístico e integração com o backend para gerenciamento e acompanhamento das entregas.
 
-<br>
+**Stack**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 
 <br><br>
 
@@ -245,13 +213,11 @@ Frontend do sistema de rastreamento de medicamentos com interface para gerenciam
 
 <td width="50%" valign="top">
 
-<h3>💰 Sistema de Gerenciamento de Caixa</h3>
+### 💰 Sistema de Gerenciamento de Caixa
 
-<p>
-Sistema básico de gerenciamento de caixa de supermercado desenvolvido para desktop.
-</p>
+Sistema básico de gerenciamento de caixa de supermercado desenvolvido em **Java Swing**, com foco na prática de desenvolvimento de aplicações desktop e organização de operações de caixa.
 
-<br>
+**Stack**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -266,26 +232,20 @@ Sistema básico de gerenciamento de caixa de supermercado desenvolvido para desk
 
 <td width="50%" valign="top">
 
-<h3>🚀 More Projects</h3>
+### 🚀 Next Project
 
-<p>
 Novos projetos serão adicionados conforme minha evolução como desenvolvedor.
-</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-7C3AED?style=for-the-badge"/>
-
-<br><br>
-
-<code>Building the next project...</code>
+```text
+STATUS :: IN DEVELOPMENT
+NEXT_PROJECT :: UNKNOWN
+MISSION :: BUILD SOMETHING GREAT
+```
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -295,102 +255,103 @@ Novos projetos serão adicionados conforme minha evolução como desenvolvedor.
 ┌──[ MATHEUS@GITHUB ]──[ ~/objectives ]
 │
 ├── $ studying Software Engineering
-│   └── [████████████████░░░░] 80%
+│   └── [████████████████░░░░] IN PROGRESS
 │
 ├── $ improving Java
-│   └── [██████████████░░░░░░] 70%
+│   └── [██████████████░░░░░░] IN PROGRESS
 │
 ├── $ mastering Spring Boot
-│   └── [████████████░░░░░░░░] 60%
+│   └── [████████████░░░░░░░░] IN PROGRESS
 │
 ├── $ building backend projects
-│   └── [███████████████░░░░░] 75%
+│   └── [███████████████░░░░░] IN PROGRESS
 │
-├── $ improving databases
-│   └── [████████████░░░░░░░░] 60%
+├── $ improving database knowledge
+│   └── [████████████░░░░░░░░] IN PROGRESS
 │
 └── $ becoming a better software engineer
-    └── [██████████████████░░] 90%
+    └── [██████████████████░░] ACTIVE
 ```
 
 ---
 
-## `05 // GITHUB_ANALYTICS`
+## `05 // GITHUB_ACTIVITY`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMartinsOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMartinsOliveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9"/>
+<img src="https://streak-stats.demolab.com?user=MatheusMartinsOliveira&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MatheusMartinsOliveira&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusMartinsOliveira&bg_color=0d1117&color=00e5ff&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## `06 // ACTIVITY_GRAPH`
+## `06 // CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusMartinsOliveira&bg_color=0d1117&color=00e5ff&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH" width="95%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MatheusMartinsOliveira/MatheusMartinsOliveira/gh-pages/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MatheusMartinsOliveira/MatheusMartinsOliveira/gh-pages/github-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/MatheusMartinsOliveira/MatheusMartinsOliveira/gh-pages/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
+</picture>
 
 </div>
 
 ---
 
-## `07 // GITHUB_TROPHIES`
+## `07 // GITHUB_OVERVIEW`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusMartinsOliveira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://img.shields.io/github/followers/MatheusMartinsOliveira?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/MatheusMartinsOliveira?style=for-the-badge&logo=github&label=PROFILE%20STARS&color=7C3AED" alt="GitHub Stars"/>
+<img src="https://komarev.com/ghpvc/?username=MatheusMartinsOliveira&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
 
-</div>
-
----
-
-## `08 // CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MatheusMartinsOliveira/MatheusMartinsOliveira/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ```text
-[ CONTRIBUTION MATRIX ]
-
-Scanning GitHub activity...
-Analyzing commits...
-Generating contribution pattern...
-
-STATUS :: ONLINE
+┌───────────────────────────────────────────────┐
+│                 SYSTEM OVERVIEW                │
+├───────────────────────────────────────────────┤
+│                                               │
+│  DEVELOPER      :: MATHEUS HENRIQUE MARTINS   │
+│  SPECIALIZATION :: SOFTWARE DEVELOPMENT       │
+│  MAIN STACK     :: JAVA / SPRING BOOT / MYSQL │
+│  LOCATION       :: LONDRINA / PR / BRAZIL     │
+│  STATUS         :: ONLINE                     │
+│                                               │
+└───────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `09 // CONNECT`
+## `08 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/MatheusMartinsOliveira">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/matheus-henrique-martins-de-souza-oliveira-2b110a410">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:matheushenriquemso123@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
 </a>
 
 </div>
@@ -401,14 +362,17 @@ STATUS :: ONLINE
 
 <br>
 
-### `> CONNECTION ESTABLISHED_`
+```text
+> CONNECTION ESTABLISHED_
+> USER: MATHEUS HENRIQUE MARTINS
+> SYSTEM: ONLINE
+> STATUS: BUILDING THE FUTURE
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer&animation=fadeIn" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
 <sub>Designed & built by <b>Matheus Henrique Martins</b> • 2026</sub>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MatheusMartinsOliveira&label=PROFILE+VIEWS&color=00e5ff&style=flat-square"/>
 
 </div>
